@@ -1,12 +1,13 @@
 ### Casio-FX-9750GIII
-This is my calculator that I have been using for 4 years. It is working very well for the price
-but enough about my history about this cal. In this repository is the main information about this calculator
-that you might not knowing about!
+This is my scientific(+Graphing) calculator that I have been using for 4 years.
+It is working very well for the price and there are many function that I discover but not use very often!!
 
-![Alt text](/picture/readme/cal.jpg?raw=true "Casio FX-9750GIII Calculator with Data Cable (This Will appera if there are problem with the picture.)")
+## In this repository will be the detailed information of this calculator
+
+![Alt text](/Picture/first_section/pic01.jpg?raw=true "Casio FX-9750GIII Calculator with Data Cable (This Will appera if there are problem with the picture.)")
 
 ---
-## Category
+# Category
 * Dimension & Style
 * Normal Everyday Use
 * Not-so common everyday use
@@ -15,3 +16,21 @@ that you might not knowing about!
 * Install Program & games
 * Weird quirks and problem
 * Better Alternative
+
+
+You can press the highlight text to navigate to different section!
+
+1. Dimension and ports
+2. Menu, button, function, and subfunction
+3. Basic use for calculation
+4. Stat Calculation (Basic)
+5. Stat Calculation (Intermediate)
+6. Stat Calculation (Advanced)
+7. E-Act
+8. Graphing
+9. 
+
+20. Program and memory
+21. Calculator Programming
+22. Connect to External Device
+30. Weird Quirks (Annoying things included)
