@@ -4,7 +4,7 @@ It is working very well for the price and there are many function that I discove
 
 ## In this repository will be the detailed information of this calculator
 
-![Alt text](/Picture/first_section/pic01.jpg?raw=true "Casio FX-9750GIII Calculator with Data Cable (This Will appera if there are problem with the picture.)")
+![If the Picture isn't showing. Imagine Casio FX-9750GIII Calculator with Data Cable](/Picture/first_section/pic01.jpg?raw=true)
 
 ---
 # Category
