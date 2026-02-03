@@ -1,0 +1,8 @@
+site_name: Casio Calculator Docs
+theme:
+  name: material  # ธีมที่สวยที่สุดสำหรับงานสายเทคนิค
+nav:
+  - Home: index.md
+  - Tutorials: 
+    - Getting Started: tutorials/basic-io.md
+  - Examples: examples/graphing.md
